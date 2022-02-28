@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tom Tel-Troths come to town againe with his humors. Vnder which humour is contained these particulars: viz. A rope for a parat. A bable for a foole. A springe for a woodcocke. And a snare for a fox. Collected and published to make honest and wise men merry, or fooles and knaves mad.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94727</idno>
+            <idno type="STC">Wing T1788</idno>
+            <idno type="STC">Thomason E96_7</idno>
+            <idno type="STC">ESTC R8334</idno>
+            <idno type="EEBO-CITATION">99873283</idno>
+            <idno type="PROQUEST">99873283</idno>
+            <idno type="VID">155810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94727)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155810)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 17:E96[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tom Tel-Troths come to town againe with his humors. Vnder which humour is contained these particulars: viz. A rope for a parat. A bable for a foole. A springe for a woodcocke. And a snare for a fox. Collected and published to make honest and wise men merry, or fooles and knaves mad.</title>
+                  <author>Taylor, John, 1580-1653, attributed name.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Th: Lambert neere the Red Crosse in Little Britaine,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Taylor, the water poet, by Stonehill.</note>
+                  <note>Annotation on Thomason copy: "Aprill. 12".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155810:1" rendition="simple:additions"/>
+            <p>Tom Tel-Troths come to towne againe with his humors. Vnder which Humour is contained theſe particulars: <hi>Viz.</hi>
+               <list>
+                  <item>A Rope for a Parat.</item>
+                  <item>A Bable for a Foole.</item>
+                  <item>A Springe for a Woodcocke.</item>
+                  <item>And a Snare for a Fox.</item>
+               </list>
+            </p>
+            <p>Collected and publiſhed to make honeſt and wiſe men merry, or fooles and knaves mad.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>Printed at London for <hi>Th: Lambert</hi> neere the Red Croſſe in Little Britaine. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="humorous_essay_on_honesty">
+            <pb facs="tcp:155810:2"/>
+            <pb n="3" facs="tcp:155810:2"/>
+            <head>Tom Tel-Troths HVMOVR.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow now my maſters, what's the matter? what, ſhall wee have <hi>Tom Tel-troathes</hi> humour? what kinde of fellow's this <hi>Tom Tel-troath,</hi> that hee muſt have his peculiar humour publiſhed, (nay more) and this hu<g ref="char:EOLhyphen"/>mour of his is propos'd as a patterne for honeſt men to imitate? 'tis ſtrange, yet as true; for let mee tell you, this booke containes (as in the title 'tis promiſed) A rope for a Parat, (you may underſtand me) A bable for a foole, (don't miſtake me) A ſpringe for a Woodcocke, (I hope you conceive me) and a Snare for a Fox, (that's a cup of good Ale, as I thinke) this is <hi>Tom Tel-troathes</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he eſteemes a man not altogether for his wealth, but ſome<g ref="char:EOLhyphen"/>thing for his vertue and honeſty, for hee is perſwaded that a rich man may binde a lye more firmly by his credit, then a poore man by his oath: this is <hi>Tom Tel-troathes</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he cannot endure a man that will beat his wife, for he thinks that ſuch provocations may induce an honeſt woman to work revenge without reſiſting: you know how, my maſters, don't you? this is <hi>Tom Tel-troathes</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> hee is of opinion that a Brokers conſcience lies in his ſhop<g ref="char:EOLhyphen"/>booke, and that of all extortioners he is the greateſt; for your com<g ref="char:EOLhyphen"/>mon Vſurers are to bee accounted courteous kinde neighbours, and Common-wealths men, in compariſon of Brokers; yet of both, if there
+<pb n="4" facs="tcp:155810:3"/>bee ever a good one, there is none bad: this is <hi>Tom Tel-troaths</hi> hu<g ref="char:EOLhyphen"/>mour.</p>
+            <p>
+               <hi>Item,</hi> he loves to looke before he leape, and to adviſe before he exe<g ref="char:EOLhyphen"/>cute any great deſigne, becauſe foreſight is as good as working, and po<g ref="char:EOLhyphen"/>licy oftentimes performes what ſtrength cannot: <hi>Probattm eſt:</hi> this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> of all kinde of creature; (next unto man) he honnours a wo<g ref="char:EOLhyphen"/>man, becauſe ſhe is mans neceſſary partner, and may at her pleaſure elevate his fortune, theſe things he knowes may bee, but hee is loath to prove it in himſelfe: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he hates a Bawd and a Horſecourſer, and holds them both alike in their profeſſions, becauſe both ſell Jades, onely the difference is in this, the Bawd ſels few under fifteene, and the Horſcourſer all under five: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he is indifferent-whether he have any money or none, but to ſupply his wants, and pay his debts, otherwiſe hee thinkes money to be a thing not worthy of ſuch eſteeme as it hath now adayes among people, becauſe though we covet it ſo much, yet in time of neceſſity a halfe-penny loafe, and a pinte of beere, or water, will ſtand us in more ſtead, then tenne millions of gold or ſilver, which wee can nei<g ref="char:EOLhyphen"/>ther eate nor drinke, this is certaine true: and this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> hee wiſheth that thoſe pratling ignorant Parats which call indifferently for an Almond and a Rope, becauſe they are a cage of un<g ref="char:EOLhyphen"/>cleane birds, whoſe tongues ſet people together by the eares, while they cry, Walke knave, walke, both to good and bad, let the laſt word ſtand, a rope for Parat, walke knave, walke: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he loves a Souldier with his heart, and hee counts his pro<g ref="char:EOLhyphen"/>feſsion truly honourable, but in this reſpect hee would live lovingly by his neighbour, but is loath to have need of him, ſo hee loves and reſpects a Souldier, but he begges of heaven, that hee may never ſtand in want of that calling: you underſtand me Gentlemen, peace is a pre<g ref="char:EOLhyphen"/>cious commodity: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <pb n="5" facs="tcp:155810:3"/>
+            <p> 
+               <hi>Item,</hi> he is of that Religion which preferres obedience before ſa<g ref="char:EOLhyphen"/>crifice, and humility before private opinion or ſelfe-conceit, and if any thing wants reformation, he thinkes prayer, patience, and longanimity, to be a better, ſafer, and more pleaſing way, then thus to goe ſo round<g ref="char:EOLhyphen"/>ly to worke, expecting great matters to be done in a moment: this is not: <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> hee preferres Antiquity before Novelliſme, as age claimes precedency before youth, and although he confeſſes that Barnes, Sta<g ref="char:EOLhyphen"/>bles, Tubs, Chaires, and Baskets were made and uſed before Churches and Pulpits were built, yet hee holds it fitting that every Tub ſhould ſtand upon its owne bottome, and that there ſhould bee a diſtinction betweene divine and prophane places, perſons, and things, let all bee done to property, and nothing to ſlander and obloquy: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> hee deemes it an horrible diſgrace for a man to ſcold in the ſtreet, for it is a materiall point of wiſedome and humanity to diſtin<g ref="char:EOLhyphen"/>guiſh a <hi>Socrates</hi> from a <hi>Zantippe,</hi> let a hen be knowne by her cackling, and a cocke by his manly crowing, carriage, and valour: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he ſcornes cowardiſe, and he as much hates quarrelling: in his owne defence, and a lawfull cauſe he can fight, yet preferres peace before diſſention, remiſsion of faults before ſevere revenge, and if hee weare any weapon, it is rather to defend himſelfe or his friend, then to oftend others: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he cares not much whether there bee any Biſhops or no, (as the caſe ſtands) if there be any, he would have them to bee as as they ought, painfull Preachers, humble and devour, examples of piety, cha<g ref="char:EOLhyphen"/>rity, hoſpitality, and all Religious acts, no unneceſſary intermedler with worldly and temporall buſineſſes, through avaritious deſire of gaine) but carefull feeders, not fleecers of the flockes committed to their government: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> hee is no great gameſter, unleſſe it bee at Put, for a pot, to paſſe idle time: but hee loathes them who put more into their heads then their legs can well carry, and ſo turne paſtime and honeſt recrea<g ref="char:EOLhyphen"/>tion into painfull prophanation, and a high way to damnation: This is
+<pb n="6" facs="tcp:155810:4"/>a ſnare for a Fox, but not <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he loves at all times (according to his ability) whatſoeve<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelfe does, to provide neceſſarie; for his wife and family, this every honeſt man is bound in conſcience to doe, and (if I miſtake not this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he holds it requiſite in a woman, ſo he hopes his wife is, to be ſober, honeſt, loving, thrifty and cleanly, for, and to her husband; <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> raylineg ſcold, no ſluttiſh queane, no drunken for, no carry-tale goſſip, no backbiter, no envious ſlanderer, nor one who rather then he ſhould be conted a Roundhead, will make him a Ramhead, the firſt qualities are to be lov'd and reſpected, the laſt to be loathd and rejected of all: and this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> to become ſurety, and to enter into bond for another mans debt, to be deluded by faire promiſes, to engage himſelfe ſo farre for his faigned friend, that you may, count him a ſure conſtant man, and know alwayes where to finde him, I hope you conceive mee, thats a ſpringe for a Woodcocke, but it is not <hi>Tom Tel-troths</hi> hu<g ref="char:EOLhyphen"/>mour.</p>
+            <p>
+               <hi>Item,</hi> he conceives but little difference between a Potter and a Car<g ref="char:EOLhyphen"/>rier, or Carter, yet ſome there is, for the Porter patiently underſtands how things are carried by himſelfe, but the other muſt ſay <hi>Gramary horſe</hi> for his living; and though the world run on wheeler with him, yet ſometimes hee hath enough to doe to keepe the Cart upon the wheeles, therefore the Porter may claime precedency: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he deemes it unfitting that a man ſhould disfigure himſelfe by ſpoyling that which God and Nature hath lent him for an ornament, and that is the haire of the head, which ſome pole ſo cloſe, that they ſeeme rather to be Monkyes then men; no hee ſayes that mediecri<g ref="char:EOLhyphen"/>ty is to be obſerved in ſuch a meaſure, that not onely pride, but alſo ſcandall may in ſome ſort bee avoided: this is <hi>Tom Tel-troths</hi> hu<g ref="char:EOLhyphen"/>mour.</p>
+            <p>
+               <hi>Item,</hi> as he loves no ſhorter haire then neceſſity urgeth, ſo on the other ſide he abhorres this abominable cuſtome of <hi>Protean</hi> Periwigs; which to ſay plaine, mikes a man in the open ſtreet appeare like a
+<pb n="7" facs="tcp:155810:4"/>Player, acting a part upon <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Sta<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſualty of ſickneſſe to deprive him of that naturall ornament, hee'll be contented to wait his leiſure who took <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y the firſt crop, till hee ſend a ſecond: but a Periwig out upon't, that's a bable for a foole, not fitting for a wiſe man to uſe, (don't miſtake me) this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> when he ſees a man goe into a noted common bawdy houſe, then he conjecture; (I and that very probably too) that within ſelfe then an houre after there will be a commotion betweene two malig<g ref="char:EOLhyphen"/>nant Plants, (Planet, I might have ſaid, <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>t let the full word ſtand) which conjunction is likely to produce dangerous and peſtifero<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ef<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ects, among the reſt, it will certainly lighten (the pockets he meanes) and great intolerable heat may be judg'd to ſucceed, with malevolent diſeaſes; what the pox ſhall we thinke elſe of this horrible conjuncti<g ref="char:EOLhyphen"/>on, when a whore and a knave in that kinde meet together, ſhine the Sunne nere ſo cleare, betwixt them there's foule weather: this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he holds it repugnant to reaſon that truth ſhould hope to bee upheld and propagated by falſhood, hee would have every man ſpeake <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unto his neighbour, <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> familiar with verily and ſincerely, ſhould let verity and ſincerity b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more converſant with their he rts: hee would have no letters written without ſubſcriptions and ſupe ſ ription, leſt the intellectuall ſuſpect them of forge y: moreover he remembers an old Proverb, <hi>Veritas non quaerit a<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gul<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> this is <hi>Tom Tel-troths</hi> humour.</p>
+            <p>
+               <hi>Item,</hi> he thinke it a great poin<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of fo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ly in any man to thirſt after newes, whereof this age is ſo plentifull, that the <hi>mater</hi> being ſo falſe, the <hi>minor</hi> (though true) is ſuſpected: and hee can never forget my Lord Deputiet (more knave then) foole, who when a certaine Lord was accus'd of ſpeaking uncertaine words, this fellow got a loafe in one hand, and a Neats tongue in the other, ſo eating the bread, and holding up the tongue, my Lord askes, What's thy conceit, ſirrah? Why <hi>Tom</hi> (quoth he) thou ſeeſt I hold my tongue, and eat my bread quietly: this <hi>anigma</hi> needs ſo <hi>Oedipus</hi> to diſcover it, tis ſo eaſily con<g ref="char:EOLhyphen"/>ceived, and this is <hi>Tom Tel-troths</hi> humour.</p>
+         </div>
+         <div type="postscript">
+            <pb n="8" facs="tcp:155810:5"/>
+            <head>Poſtſcript.</head>
+            <lg>
+               <l>THis holding of the tongue puts me in minde</l>
+               <l>To hold my pen; well <hi>Thomas</hi> once againe</l>
+               <l>I councell thee to have thy heart inclin'd</l>
+               <l>To what thy tongue has promiſt; elſe in vaine</l>
+               <l>Is this thy <hi>Humour</hi> publiſhed i'th ſtreet,</l>
+               <l>Vnleſs thy heart and tongue in concord meet.</l>
+            </lg>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
